@@ -1,8 +1,10 @@
 # My personal Skills and Rules for AI tools
 
+LOL, just realized that rhymes. I'm a poet and didn't know it.
+
 ## Tools
 
-As of right now, I'm mostly just using Claude Code so these skills were created for Claude and used with Claude.
+As of right now, I'm mostly just using Claude so these skills were created for and used with Claude Code.
 They may or may not work with other agents, Feel free to download and try them out.
 
 ## Contributing
